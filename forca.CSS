@@ -33,6 +33,11 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    margin-left: 40px;
+    margin-top: 32px;
+}
+
 p {
     font-size: 20px;
 }
