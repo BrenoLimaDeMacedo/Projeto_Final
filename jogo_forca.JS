@@ -1,4 +1,4 @@
-let lista_palav = ['amarelo', 'aviao', 'bolo', 'cama', 'doce', 'estojo', 'faca', 'geleia', 'janela', 'noite', 'acender', 'basquete', 'champanhe', 'desalmado', 'eloquente', 'afobado', 'amendoim', 'banheiro', 'caatinga', 'forca'];
+let lista_palav = ['aviao', 'bolo', 'cama', 'doce', 'estojo', 'faca', 'geleia', 'janela', 'bola', 'champanhe', 'biblia', 'bastao', 'geladeira', 'amendoim', 'ceramica', 'poste', 'forca'];
 
 let palav = lista_palav[Math.floor(Math.random() * lista_palav.length)];
 
